@@ -1,0 +1,432 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: silver;
+}
+
+.tauko{
+    height: 250px;
+    background-color: #0f1111;
+    display: flex;
+    /* color: white; */
+    background-image: linear-gradient(#265073,#2D9596,#9AD0C2);
+}
+.text{
+    align-items: center;
+    position: absolute;
+    text-align: center;
+    right: 20%;
+    top: 15px;
+    font-size: 90px;
+   
+}
+i{
+    color:blue;
+    margin-bottom: 30px;
+    border: 2px solid;
+   background-image: linear-gradient(skyblue,cyan,aqua);
+    height: 65px;
+    width: 65px;
+    text-decoration: none;
+    
+}
+.next{
+    margin-bottom: 20px;
+    justify-content: space-around;
+    font-size: 75px;
+}
+.row1{
+    display: flex;
+}
+.boxo{
+    border: 2px solid black;
+    height: 250px;
+    width: 50%;
+}
+
+.row2{
+    display: flex;
+}
+.boxt{
+    border: 2px solid black;
+    height: 250px;
+    width: 50%;
+}
+.row3{
+    display: flex;
+}
+.boxr{
+    border: 2px solid black;
+    height: 250px;
+    width: 50%;
+}
+.row4{
+    display: flex;
+}
+.boxf{
+    border: 2px solid black;
+    height: 250px;
+    width: 50%;
+}
+.row5{
+    display: flex;
+}
+.boxv{
+    border: 2px solid black;
+    height: 250px;
+    width: 50%;
+}
+.row6{
+    display: flex;
+}
+.boxx{
+    border: 2px solid black;
+    height: 250px;
+    width: 50%;
+}
+.row7{
+    display: flex;
+}
+.boxe{
+    border: 2px solid black;
+    height: 250px;
+    width: 50%;
+}
+
+
+
+
+
+
+/* bhitra ko box  */
+.box1{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo1{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    text-align: center;
+}
+.details1{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    justify-content: space-around;
+    
+}
+.box2{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo2{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details2{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+.box3{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo3{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details3{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+.box4{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo4{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details4{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+.box5{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo5{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details5{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.box6{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo6{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details6{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+.box7{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo7{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details7{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+.box8{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo8{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details8{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+.box9{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo9{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details9{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+.box10{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo10{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details10{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+.box11{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo11{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details11{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+
+.box12{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo12{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details12{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+.box13{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo13{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details13{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+.box14{
+    display: flex;
+    justify-content: space-between;
+
+}
+.photo14{
+    border: 2px solid red;
+    height: 210px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+.details14{
+    border: 2px solid red;
+    height: 210px;
+    width: 550px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    
+}
+
+/* TEXT HARU */
+.BODY{
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.pic{
+    aspect-ratio: 1/1;
+}
+.pic:active{
+    width: 300px;
+    height: 300px;
+    scale: 1.8;
+    margin-top: none;
+    top: none;
+    position: none;
+    background-size: cover;
+}
